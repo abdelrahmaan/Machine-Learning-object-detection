@@ -1,5 +1,8 @@
 # Machine Learning with real-time object detection and TensorFlow.
 ## Following the instructions here: https://github.com/abdelrahmaan/training
-## My Vedio :
+## My Video : https://youtu.be/IE7_c1hR3D0
 ## Some Photos:
-![alt text](file:///Volumes/3abdo/Cources/IBM-ML/Project-IBM-ML/Photos/Screen%20Shot%202019-05-23%20at%206.14.47%20PM.png)
+![abdo](Photos/1.png)
+![wrist watch](Photos/2.png)
+![iphone 5s](Photos/5.png)
+![holy quran](Photos/6.png)
