@@ -1,0 +1,6 @@
+buckets:
+  training: schatzi-ml5
+trainingParams:
+  gpu: k80
+  steps: '500'
+name: schatzi-ml5
